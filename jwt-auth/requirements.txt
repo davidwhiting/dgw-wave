@@ -1,0 +1,4 @@
+h2o-wave
+python-jose[cryptography]
+passlib[bcrypt]
+jose
